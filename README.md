@@ -4,6 +4,18 @@ GameReview — это полноценное веб-приложение для 
 
 -------------------------------------------------
 
+## 🛠 Технологии
+
+| Категория | Технология | Значок |
+|-----------|------------|--------|
+| Backend | Python | ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) |
+| Backend | Flask | ![Flask](https://img.shields.io/badge/Flask-2.0+-black?logo=flask) |
+| Backend | SQLite | ![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite) |
+| Frontend | HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
+| Frontend | CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
+
+-------------------------------------------------
+
 ✨ Возможности проекта:
 - 📝 Управление статьями
 - ➕ Создание статей — добавление новых обзоров с названием, описанием и полным текстом
@@ -36,15 +48,3 @@ GameReview — это полноценное веб-приложение для 
 - 📅 По дате (новые сверху)
 - ⭐ По оценке (высокие сверху)
 - 👁️ По популярности (много просмотров)
-
--------------------------------------------------
-
-## 🛠 Технологии
-
-| Категория | Технология | Значок |
-|-----------|------------|--------|
-| Backend | Python | ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) |
-| Backend | Flask | ![Flask](https://img.shields.io/badge/Flask-2.0+-black?logo=flask) |
-| Backend | SQLite | ![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite) |
-| Frontend | HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
-| Frontend | CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
