@@ -39,20 +39,12 @@ GameReview — это полноценное веб-приложение для 
 
 -------------------------------------------------
 
-📁 Структура проекта:
-GameReview/
-├── app.py                          # Главный файл приложения
-├── TestPythonWebSite.db            # База данных SQLite
-├── templates/                      # HTML шаблоны
-│   ├── index.html                  # Главная страница
-│   ├── posts.html                  # Все обзоры (с поиском и сортировкой)
-│   ├── post_detail.html            # Страница отдельной статьи
-│   ├── create-article.html         # Создание статьи
-│   └── post_update.html            # Редактирование статьи
-└── static/
-    └── css/                        # Стили CSS
-        ├── main.css                # Глобальные стили
-        ├── posts.css               # Стили для страницы обзоров
-        ├── article.css             # Стили для страницы статьи
-        ├── create.css              # Стили для создания статьи
-        └── update.css              # Стили для обновления статьи
+## 🛠 Технологии
+
+| Категория | Технология | Значок |
+|-----------|------------|--------|
+| Backend | Python | ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) |
+| Backend | Flask | ![Flask](https://img.shields.io/badge/Flask-2.0+-black?logo=flask) |
+| Backend | SQLite | ![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite) |
+| Frontend | HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
+| Frontend | CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
